@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 111,
+    "Name": "Ankush Amrutkar",
+    "Email": "ankushamrutkar@gmail.com",
+    "Address": "Mumbai"
+  },
+  {
+    "ID": 112,
+    "Name": "Adhar",
+    "Email": "ahar112@gmail.com",
+    "Address": "Kharghar, Mumbai"
+  },
+  {
+    "ID": 113,
+    "Name": "Tushar",
+    "Email": "tushar113@gmail.com",
+    "Address": "Juhu, Mumbai"
+  },
+  {
+    "ID": 114,
+    "Name": "Shantanu",
+    "Email": "shanatanu114@gmail.com",
+    "Address": "Andheri, Mumbai"
+  },
+  {
+    "ID": 115,
+    "Name": "Vanshika",
+    "Email": "vanshika115@gmail.com",
+    "Address": "Andheri, Mumbai"
+  },
+  {
+    "ID": 116,
+    "Name": "Shweta",
+    "Email": "shweta116@gmail.com",
+    "Address": "Chakala, Mumbai"
+  }
+]
